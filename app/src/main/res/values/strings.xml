@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyProjectKotlinUniversity</string>
+    <string name="NameDog1">Barsik</string>
+    <string name="NameDog2">Bobik</string>
+    <string name="NameDog3">Izabella</string>
+
+    <string name="kindAnimal">Dog</string>
+
+    <string name="urlOfBarsik">https://ggsc.s3.amazonaws.com/images/uploads/The_Science-Backed_Benefits_of_Being_a_Dog_Owner.jpg</string>
+    <string name="urlOfBobik">https://i.pinimg.com/originals/37/a8/ab/37a8ab42063f383b5f4cb136d3a3ef87.jpg</string>
+    <string name="urlOfIzabella">https://ichef.bbci.co.uk/news/976/cpsprodpb/17638/production/_124800859_gettyimages-817514614.jpg</string>
+
+    <string name="fullDescOfFact">A random fact I took from API Dog:</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
