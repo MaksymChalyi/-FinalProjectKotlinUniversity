@@ -26,7 +26,8 @@ MyProjectKotlinUniversity is a Kotlin-based Android application that demonstrate
 - The app fetches random facts about the selected animal from the internet and displays them on the second screen.
 - The app also fetches a random image of the selected animal from the internet and displays it on the second screen.
 
-![Uploading Animation.gif…]()
+   ![Alt Text](Animation.gif)
+
 
 
 ## Libraries Used
