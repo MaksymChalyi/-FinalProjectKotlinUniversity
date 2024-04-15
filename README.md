@@ -37,6 +37,6 @@ MyProjectKotlinUniversity is a Kotlin-based Android application that demonstrate
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or fixes.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 Developed by Maksym Chalyi 2023
